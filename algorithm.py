@@ -1,9 +1,6 @@
 import numpy as np
 
 import utils
-# utils.init()
-# cube = utils.cube
-# opp_sides = utils.opp_sides
 
 from utils import *
 
