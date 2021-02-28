@@ -23,4 +23,4 @@ Follow the instructions on screen to calibrate.
 
 Once the calibration is done, Place the cube in the window shown on the screen for scanning the faces. Follow the instructions on screen for scanning.
 
-** Note: **
+*Note: *
