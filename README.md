@@ -29,8 +29,8 @@ Once scanning is done, perform the movements as per shown on the screen. Make su
 
 ## Movements convention:
 
-**1. ANTICLOCK:** &emsp;&emsp;**1. CLOCK:** &emsp;&emsp;**1. D:** &emsp;&emsp;**1. D':** &emsp;&emsp;<br><br>
-![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/ANTICLOCK.png) 
-![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/CLOCK.png)
-![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/D.png)
-![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/D'.png)
+**1. ANTICLOCK:** &emsp;&emsp;**2. CLOCK:** &emsp;&emsp;&emsp;&emsp;**1. D:** &emsp;&emsp;&emsp;&emsp;&emsp;**1. D':** &emsp;&emsp;<br><br>
+![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/ANTICLOCK.png)&emsp;
+![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/CLOCK.png)&emsp;
+![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/D.png)&emsp;
+![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/D'.png)&emsp;
