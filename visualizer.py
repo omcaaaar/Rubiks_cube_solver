@@ -101,12 +101,12 @@ def calibration():
         end_loc = (int(start_loc[0]+gap), int(start_loc[1]+gap))
     
         im = cv2.flip(im, 1)
-        im = draw_cube_boundry(im, frame_width, frame_height)
+        im = draw_cube_boundry_calibration(im, frame_width, frame_height)
         
         im = cv2.putText(im, 'Calibrating cube... Please show '+clr+' color :: press c to continue', org, font,  
                        fontScale, color, thickness, cv2.LINE_AA)
         
-        cv2.imshow('frame1',im)
+        cv2.imshow('frame',im)
         
         
         pressedKey = cv2.waitKey(1) & 0xFF
@@ -145,6 +145,25 @@ def draw_cube_boundry(image, frame_width, frame_height):
             next_end_h = next_start_h+gap
             
             cv2.rectangle(image, (next_start_w, next_start_h), (next_end_w, next_end_h), color, thickness)
+            
+    return image
+
+def draw_cube_boundry_calibration(image, frame_width, frame_height):
+    top_left = (int(frame_width/3), int(frame_height/3))
+    pcs_width = int(0.05*frame_width)
+    gap = pcs_width
+    color = (255,0,0)
+    thickness = 2
+    
+    start_pts = [(top_left[0]+(0.5*gap), top_left[1]+(0.5*gap))]
+    
+    next_start_w = int(start_pts[0][0]+(gap*2))
+    next_start_h = int(start_pts[0][1]+(gap*2))
+
+    next_end_w = next_start_w+gap
+    next_end_h = next_start_h+gap
+
+    cv2.rectangle(image, (next_start_w, next_start_h), (next_end_w, next_end_h), color, thickness)
             
     return image
 
