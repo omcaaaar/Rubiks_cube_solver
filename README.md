@@ -3,7 +3,15 @@ This repo helps you solve a 3x3x3 Rubik's cube
 
 ## Running instructions:
 
-clone the repository using 
+1. clone the repository: 
 ```
-<git clone https://github.com/omcaaaar/Rubiks_cube_solver.git>
+git clone https://github.com/omcaaaar/Rubiks_cube_solver.git
 ```
+
+2. Install the dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+
