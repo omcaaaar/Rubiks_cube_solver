@@ -29,17 +29,29 @@ Once scanning is done, perform the movements as per shown on the screen. Make su
 
 ## Movements convention:
 
-**1. ANTICLOCK:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;**2. CLOCK:**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**3. D:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;**4. D':** &emsp;&emsp;<br><br>
+**1. ANTICLOCK** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+**2. CLOCK**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+**3. D** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+**4. D'** &emsp;&emsp;<br><br>
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/ANTICLOCK.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/CLOCK.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/D.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/D'.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br><br>
 
-**5. F:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-**6. F':** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-**7. L:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-**8. L':** <br><br>
+**5. F** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+**6. F'** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+**7. L** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+**8. L'** <br><br>
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/F.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/F'.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/L.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/L'.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br><br>
+
+**5. R** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+**6. R'** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+**7. U** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+**8. U'** <br><br>
+![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/R.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/R'.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/U.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/U'.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br><br>
