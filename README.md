@@ -23,6 +23,8 @@ Follow the instructions on screen to calibrate.
 
 Once the calibration is done, Place the cube in the window shown on the screen for scanning the faces. Follow the instructions on screen for scanning.
 
+**Tip: Prefer standard way of holding the cube. i.e front: Red, right: blue, top: white**
+
 **Note: Make sure the color values shown on the small cube boxes are correct before scanning the next face. If the color values are coming out to be incorrect, try to tilt the cube or change the position a little bit and press 'c'. If the issue persists, kindly consider recalibrating the cube.**
 
 Once scanning is done, perform the movements as per shown on the screen. Make sure the current cube posion is aligned with the one shown at the bottom right corner on the screen.
