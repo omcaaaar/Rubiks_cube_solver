@@ -2,6 +2,10 @@ import numpy as np
 import cv2
 from utils import update_cube
 
+std_notations = {"FL": "F'", "FR":"F", "DN":"DOWN", "UP":"UP", "LEFT":"LEFT", "RIGHT":"RIGHT", 
+                 "TL":"U", "TR":"U'", "RU": "R", "RD":"R'", "LU":"L'", "LD":"L", "BL":"D'", "BR":"D",
+                "CLOCK":"CLOCK", "ANTICLOCK":"ANTICLOCK", "CUBE SOLVED":"CUBE SOLVED"}
+
 def scan_faces(colors_range):
     ret_dict = dict()
     faces = ["front", "right", "back", "left", "top", "bottom"]
@@ -354,7 +358,7 @@ def draw_cube(image, move):
     
     image = draw_animation(image, move)
     
-    image = cv2.putText(image, "next move: "+move , (50,50), cv2.FONT_HERSHEY_SIMPLEX ,  
+    image = cv2.putText(image, "next move: "+std_notations[move] , (50,50), cv2.FONT_HERSHEY_SIMPLEX ,  
                    1, (255,0,0), 2, cv2.LINE_AA)
     
     image = cv2.putText(image, "current cube position: ", (int(frame_width*0.55),int(frame_height*0.5)), cv2.FONT_HERSHEY_SIMPLEX ,  

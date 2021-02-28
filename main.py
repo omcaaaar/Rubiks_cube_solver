@@ -17,5 +17,5 @@ if __name__ == "__main__":
     g_movements = algorithm.cube_solver(utils.cube)
     utils.cube = cube_init
     
-    visualizer.show_movements(cube_init, g_movements)
+    visualizer.show_movements(cube_init, g_movements, record=False, video_path='./cube.mp4')
     
