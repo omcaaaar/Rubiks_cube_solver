@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 3. Run the python file ```python main.py```
 
-Now there are two options. You can either scan the faces of your shuffled cube or you can enter the cube faces in utils.py.
+Now there are two options. You can either scan the faces of your shuffled cube or you can enter the cube faces manually in utils.py.
 
 If you opt for scanning the faces using webcam, You'll first have to calibrate the cube so that we can detect the colors accurately based on the surrounding lighting condition.
 Follow the instructions on screen to calibrate.
