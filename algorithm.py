@@ -1,7 +1,4 @@
 import numpy as np
-
-import utils
-
 from utils import *
 
 def is_solved():
