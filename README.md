@@ -14,4 +14,6 @@ git clone https://github.com/omcaaaar/Rubiks_cube_solver.git
 pip install -r requirements.txt
 ```
 
+3. Run the python file ```python main.py```
+
 
