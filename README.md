@@ -47,10 +47,10 @@ Once scanning is done, perform the movements as per shown on the screen. Make su
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/L.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/L'.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br><br>
 
-**5. R** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-**6. R'** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-**7. U** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
-**8. U'** <br>
+**9. R** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+**10. R'** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+**11. U** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+**12. U'** <br>
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/R.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/R'.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/U.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
