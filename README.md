@@ -57,7 +57,7 @@ Once scanning is done, perform the movements as per shown on the screen. Make su
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/U'.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br><br>
 
 **13. RIGHT** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
-**14. LEFT** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+**14. LEFT** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
 **15. UP** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 **16. DOWN** <br>
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/RIGHT.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
