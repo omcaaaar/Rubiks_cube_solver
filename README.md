@@ -27,6 +27,8 @@ Once the calibration is done, Place the cube in the window shown on the screen f
 
 Once scanning is done, perform the movements as per shown on the screen. Make sure the current cube posion is aligned with the one shown at the bottom right corner on the screen.
 
+You can also record and store a video of solving the cube. Set the **'record'** flag to **True** in main.py
+
 ## Rubik's cube standard notations:
 
 **1. ANTICLOCK** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
