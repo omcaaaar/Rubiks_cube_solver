@@ -35,9 +35,9 @@ Once scanning is done, perform the movements as per shown on the screen. Make su
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/D.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/D'.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br><br>
 
-**5. F:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
-**6. F':** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
-**7. L:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+**5. F:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+**6. F':** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+**7. L:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 **8. L':** <br><br>
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/F.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/F'.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
