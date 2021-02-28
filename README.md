@@ -27,7 +27,7 @@ Once the calibration is done, Place the cube in the window shown on the screen f
 
 Once scanning is done, perform the movements as per shown on the screen. Make sure the current cube posion is aligned with the one shown at the bottom right corner on the screen.
 
-## Movements convention:
+## Rubik's cube standard notations:
 
 **1. ANTICLOCK** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
 **2. CLOCK**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -64,3 +64,7 @@ Once scanning is done, perform the movements as per shown on the screen. Make su
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/LEFT.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/UP.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/DOWN.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br><br>
+
+## Teaser:
+
+![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/cube.mp4)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br><br>
