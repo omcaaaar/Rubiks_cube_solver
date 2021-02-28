@@ -67,4 +67,4 @@ Once scanning is done, perform the movements as per shown on the screen. Make su
 
 ## Teaser:
 
-![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/cube.mp4)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br><br>
+![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/cube.gif)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br><br>
