@@ -19,9 +19,9 @@ pip install -r requirements.txt
 Now there are two options. You can either scan the faces of your shuffled cube or you can enter the cube faces manually in utils.py.
 
 If you opt for scanning the faces using webcam, You'll first have to calibrate the cube so that we can recognize the colors accurately based on the surrounding lighting condition.
-Follow the instructions on screen to calibrate.
+Follow the instructions on the screen to calibrate.
 
-Once the calibration is done, Place the cube in the window shown on the screen for scanning the faces. Follow the instructions on screen for scanning.
+Once the calibration is done, place the cube in the window shown on the screen for scanning the faces. Follow the instructions on the screen for scanning.
 
 **Tip: Prefer standard way of holding the cube. i.e front: Red, right: blue, top: white**
 
@@ -29,7 +29,7 @@ Once the calibration is done, Place the cube in the window shown on the screen f
 
 Once scanning is done, perform the movements as per shown on the screen. Make sure the current cube posion is aligned with the one shown at the bottom right corner on the screen.
 
-You can also record and store a video of solving the cube. Set the **'record'** flag to **True** in ```main.py``` Line No. 20
+You can also record and store a video of solving the cube. Set the **record** flag to **True** in ```main.py``` Line No. 20
 
 ## Rubik's cube standard notations:
 
