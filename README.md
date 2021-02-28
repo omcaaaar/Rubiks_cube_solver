@@ -29,4 +29,4 @@ Once scanning is done, perform the movements as per shown on the screen. Make su
 
 ## Movements convention:
 
-1. L: <br><br><r> ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/L.png) 2. L': ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/L'.png)
+1. L: <br>![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/L.png) 2. L': ![alt_text](https://github.com/omcaaaar/Rubiks_cube_solver/blob/main/assets/L'.png)
